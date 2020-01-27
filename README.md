@@ -1,2 +1,2 @@
 # PracticeWithC
-Script made in c inspired by "C for dummies"
+Script made following the book C for dummies.
